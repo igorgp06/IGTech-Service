@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/* import do css global */
+
+@import url('global/global.css');
+
+/* import das paginas */
+
+@import url('index/pages_import.css');
